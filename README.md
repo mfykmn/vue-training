@@ -1,1 +1,1 @@
-# vue-training
+# Vue Training
