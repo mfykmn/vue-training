@@ -1,0 +1,25 @@
+{
+  "name": "vue-training",
+  "version": "1.0.0",
+  "repository": "ssh://git@github.com/mafuyuk/vue-training.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.22.1",
+    "url-loader": "^1.1.0",
+    "vue-loader": "^15.3.0",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.6",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1"
+  }
+}
